@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio - AN
 
-Welcome to my **Personal Portfolio Website**, a responsive and modern single-page site built using **HTML**, **CSS**, and **JavaScript**. This project showcases my professional profile, projects, skills, and contact information in a sleek, user-friendly design.
+Welcome to my **Personal Portfolio Website**, a responsive and modern single-page site built using **HTML**, **CSS**, and **JavaScript**. This project showcases my professional profile, projects, skills, certificates and contact information in a sleek, user-friendly design.
 
 ---
 
@@ -23,6 +23,9 @@ Welcome to my **Personal Portfolio Website**, a responsive and modern single-pag
 
 - 🧠 **Skills Section**  
   Highlights relevant technical skills in a clean tag layout.
+
+- 🎓 **Certificates Section**  
+  to display achievements and recognitions in a responsive layout
 
 - 📫 **Contact Section**  
   Simple call-to-action section for getting in touch.
@@ -55,7 +58,7 @@ This portfolio project is a comprehensive demonstration of front-end web develop
 
 The project features a **dark/light theme toggle**, a **mobile-friendly navigation menu**, and a **scroll-to-top button**, enhancing both usability and user experience.
 
-From profile presentation to project showcases, skills overview, and contact information, this single-page application is designed to be clean, functional, and visually appealing across all devices.
+From profile presentation to project showcases, skills overview, certificates display and contact information, this single-page application is designed to be clean, functional, and visually appealing across all devices.
 
 This project serves as a solid foundation for showcasing personal branding and can be easily extended or deployed online as a live portfolio site.
 

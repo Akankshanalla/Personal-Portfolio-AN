@@ -36,3 +36,40 @@ Welcome to my **Personal Portfolio Website**, a responsive and modern single-pag
 - JavaScript (DOM manipulation, Local Storage, Event Listeners)
 
 ---
+
+## 📦 Project Files
+
+You can download the full project and supporting files below:
+
+- 🔗 [Download Project ZIP (Google Drive)](https://drive.google.com/file/d/1yI_Ic3asGLsu4_O8EtNCr1bX8l50gZcC/view?usp=sharing)
+
+---
+
+## ✅ Conclusion
+
+This portfolio project is a comprehensive demonstration of front-end web development skills. It combines:
+
+- **HTML5** for structure
+- **Modern CSS3** including custom properties, responsive design via Flexbox and Grid, and visual enhancements like transitions and hover effects
+- **JavaScript** for interactivity, including theme switching, a responsive mobile menu, and scroll-based behavior
+
+The project features a **dark/light theme toggle**, a **mobile-friendly navigation menu**, and a **scroll-to-top button**, enhancing both usability and user experience.
+
+From profile presentation to project showcases, skills overview, and contact information, this single-page application is designed to be clean, functional, and visually appealing across all devices.
+
+This project serves as a solid foundation for showcasing personal branding and can be easily extended or deployed online as a live portfolio site.
+
+---
+
+## 🙌 Acknowledgements
+
+Thanks to **Team Robokalam** for this opportunity. I thoroughly enjoyed building this project!
+
+---
+
+## 📫 Contact
+
+Feel free to reach out:
+
+- **Email:** nallaakanksha369@gmail.com
+- **LinkedIn:** [linkedin.com/in/AkankshaNalla](https://www.linkedin.com/in/akanksha-nalla-53916025b)  

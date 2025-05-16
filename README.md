@@ -44,7 +44,8 @@ Welcome to my **Personal Portfolio Website**, a responsive and modern single-pag
 
 You can download the full project and supporting files below:
 
-- 🔗 [Download Project ZIP (Google Drive)](https://drive.google.com/file/d/1yI_Ic3asGLsu4_O8EtNCr1bX8l50gZcC/view?usp=sharing)
+- 🔗 [Download Project (Google Drive)](https://drive.google.com/drive/folders/15qNHMsPkx9-Re6c_jNXMpnI37A78YxSe?usp=sharing)
+- 🎬 [Click to Watch the Demo Video](https://drive.google.com/file/d/18bJ_MDuMBSGbGUC_kr28mMX7n6DTdQIc/view?usp=sharing)
 
 ---
 
